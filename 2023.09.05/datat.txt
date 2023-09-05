@@ -1,0 +1,7 @@
+WD Red Plus 4TB 5400rpm 256MB
+Seagate Skyhawk 8TB 7200rpm 256MB
+Seagate IronWolf 2TB 7200rpm 256MB
+
+Samsung m.2 ssd 1TB 7000MB
+Kingston M.2 2TB 7000MB
+Samsung 980 pro 1TB 5000MB
